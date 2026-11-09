@@ -1,5 +1,7 @@
 # Post-Revocation Metadata Dispatch During Asynchronous Token Preparation in OpenCodex
 
+**Author identity:** JAEYUN LEE publishes software and security research under the GitHub handle [Caledvwlch](https://github.com/Caledvwlch). This statement links the author's name to the handle credited in the upstream contributions below.
+
 *Self-published retrospective technical report (published November 10, 2026) documenting an upstream code fix authored by `Caledvwlch` and merged into [`lidge-jun/opencodex#7621`](https://github.com/lidge-jun/opencodex/pull/7621) on October 26, 2026 UTC (October 27, 2026 KST; merge commit `a3e22148a`, [maintainer integration record](https://github.com/lidge-jun/opencodex/pull/7621#issuecomment-6423576279)). Prepared with AI assistance. This document is not a CVE record, a GitHub Security Advisory (GHSA), a bug-bounty report, or an official vendor security advisory.*
 
 ## Executive Summary
